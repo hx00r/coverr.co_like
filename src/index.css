@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-item{
+    @apply block mb-3 text-sm text-gray-300 hover:text-white transition-colors w-full
+}
