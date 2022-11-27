@@ -8,7 +8,8 @@ coverr.co*like is a project inspired by [coverr.co](https://coverr.co/), created
 
 Video Overview
 
-./src/assets/videos/coverr.co_like_overview.m4v
+https://user-images.githubusercontent.com/33162573/204113847-0fec0918-59d9-454a-8716-68cac47edef0.mp4
+
 
 ## Project setup
 
