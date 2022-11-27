@@ -1,6 +1,6 @@
 # coverr.co_like
 
-coverr.co*like is a project inspired by [coverr.co](https://coverr.co/), created using [Vue.js](https://vuejs.org/) And it's also my first project of *\_like\_ series when I'll take a big website and turn into a fully functioning Vue.js open source project.
+coverr.co_like is a project inspired by [coverr.co](https://coverr.co/), created using [Vue.js](https://vuejs.org/) And it's also my first project of *\_like\_ series when I'll take a big website and turn into a fully functioning Vue.js open source project.
 
 ## Overview
 
